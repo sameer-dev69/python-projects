@@ -1,6 +1,6 @@
 This repository showcases some python projects I've built demonstrating different ways I've used my skills to solve prolems using python.
 
-## Python Projects
+## Projects
 #### 1. File Organzer: 
 A python tool that automatically organizes files into folders based on their filetypes.
 
