@@ -9,3 +9,7 @@ A simple CLI app that fetches weather data from openweatherapi and displays weat
 
 ### 3. Sorting Algorithm Visualizations
 A python visualization showing how sorting algorithms work step-by-step.
+
+## To Run:
+Clone the repository inside a folder in your local machine
+command: git clone https://github.com/sameer-dev69/python-projects
