@@ -1,0 +1,6 @@
+2026-03-15 11:08:33,123 : root : Starting file organizer.
+2026-03-15 11:08:33,126 : root : Moved sample1.docx -> Documents
+2026-03-15 11:08:33,127 : root : Moved sample2.PNG -> Images
+2026-03-15 11:08:33,129 : root : Moved sample3.mp4 -> Videos
+2026-03-15 11:08:33,129 : root : Program ended successfully!
+Moved 3 files, skipped 0 files.

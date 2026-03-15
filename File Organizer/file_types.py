@@ -1,0 +1,10 @@
+FILE_TYPES = {".jpeg": "Images", ".jpg": "Images",
+              ".png": "Images", 
+              ".webp": "Images",
+              ".docx": "Documents", 
+              ".pdf": "Documents", 
+              ".xlsx": "Documents", ".xls": "Documents",
+              ".pptx": "Documents", ".ppt": "Documents",
+              ".txt": "Documents",
+              ".mp4": "Videos",
+              ".mp3": "Audios"}
